@@ -6,7 +6,7 @@ import  Login from "./components/login/login";
 import Register from "./components/register/register";
 // import Home from './components/Home';
 // import UserLogin from './components/UserLogin';
-// import UserProfile from './components/UserProfile';
+// import UserProfile from './components/UserProfile'; //comment
 
 function App() {
   return (
